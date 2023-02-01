@@ -6,3 +6,4 @@ node_modules
 dist
 .cache
 *.sqlite
+/test.js
